@@ -1,4 +1,4 @@
-module omarkhd/memkv
+module fronzec/memkv
 
 go 1.16
 

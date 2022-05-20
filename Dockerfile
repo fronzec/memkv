@@ -1,4 +1,4 @@
-ARG SRCDIR=/go/omarkhd/memkv
+ARG SRCDIR=/go/fronzec/memkv
 
 # Building stage.
 FROM golang:1.16.5 AS build

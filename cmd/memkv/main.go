@@ -3,9 +3,9 @@ package main
 import (
 	"log"
 
-	"omarkhd/memkv/metrics"
-	"omarkhd/memkv/server"
-	"omarkhd/memkv/store"
+	"fronzec/memkv/metrics"
+	"fronzec/memkv/server"
+	"fronzec/memkv/store"
 )
 
 func main() {

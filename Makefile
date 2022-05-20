@@ -1,5 +1,5 @@
 build:
-	docker build -t omarkhd/memkv:latest .
+	docker build -t fronzec/memkv:latest .
 
 down:
 	docker-compose down --remove-orphans
