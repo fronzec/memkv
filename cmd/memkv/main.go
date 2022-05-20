@@ -21,7 +21,7 @@ func main() {
 	if err != nil {
 		panic(err.Error())
 	}
-	log.Print("Starting omarkhd/memkv")
+	log.Print("Starting fronzec/memkv")
 	go s.Start()
 	select {}
 }
